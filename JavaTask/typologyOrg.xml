@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Structure>
+  <Header>
+    <MaxLevel>3</MaxLevel>
+  </Header>
+  <OrganizationList>
+    <Organization>
+      <Code1>100001</Code1>
+      <Name1>Standard</Name1>
+      <Typology><!-- 1  -->
+        <Code>-1</Code>
+        <Name>TOTAL</Name>
+        <ASCIICode>TOT</ASCIICode>
+        <Typology><!-- 2 -->
+          <Code>-2</Code>
+          <Name>STANDARD TYPOLOGIES</Name>
+          <ASCIICode>STD</ASCIICode>
+          <Typology><!-- 3 -->
+            <Code>1</Code>
+            <Name>DJECJI PROGRAM</Name>
+            <ASCIICode>0</ASCIICode>
+            <Typology><!-- 3.1 -->
+              <Code>64</Code>
+              <Name>DJECJE ANIMIRANE SERIJE</Name>
+              <ASCIICode>00</ASCIICode>
+              <Typology><!-- 3.1.1 -->
+                <Code>4033</Code>
+                <Name>DOMACA</Name>
+                <ASCIICode>000</ASCIICode>
+              </Typology><!-- 3.1.1 -->
+              <Typology><!-- 3.1.2 -->
+                <Code>4034</Code>
+                <Name>ENGLESKO</Name>
+                <ASCIICode>001</ASCIICode>
+              </Typology><!-- 3.1.2 -->
+            </Typology><!-- 3.1 -->
+            <Typology><!-- 3.2 -->
+              <Code>65</Code>
+              <Name>DJECJE GLAZBENE I ZABAVNE EMISIJE</Name>
+              <ASCIICode>01</ASCIICode>
+              <Typology><!-- 3.2.1 -->
+                <Code>4095</Code>
+                <Name>DOMACA</Name>
+                <ASCIICode>010</ASCIICode>
+              </Typology><!-- 3.2.1 -->
+              <Typology><!-- 3.2.2 -->
+                <Code>4096</Code>
+                <Name>ENGLESKO</Name>
+                <ASCIICode>011</ASCIICode>
+              </Typology><!-- 3.2.2 -->
+            </Typology><!-- 3.2 -->
+          </Typology><!-- 3 -->
+        </Typology><!-- 2 -->
+      </Typology><!-- 1  -->
+    </Organization>
+  </OrganizationList>
+</Structure>
