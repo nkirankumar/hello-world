@@ -1,3 +1,6 @@
+/*
+ * pojo class
+ */
 package my;
 
 public class Typology {
