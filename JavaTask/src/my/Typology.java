@@ -5,11 +5,9 @@ public class Typology {
 	private String code;
 	private String name;
 	private String asciiCode;
-	
+
 	private int nodeIndex;
 	private int parentIndex;
-	
-	
 
 	public int getNodeIndex() {
 		return nodeIndex;
